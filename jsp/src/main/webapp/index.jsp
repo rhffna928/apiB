@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>메인 페이지 입니다. test  gggg   ttt yyy</h1>
+<h1>메인 페이지 입니다. test  gggg   ttt yyyasdasdasd</h1>
 
 <%Dbconn dbconn = new Dbconn();%>
 
